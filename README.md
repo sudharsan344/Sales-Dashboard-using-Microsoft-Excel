@@ -39,7 +39,7 @@ Developed an interactive Sales Dashboard in Microsoft Excel to analyze and visua
 
 ## Dashboard Preview
 
-![Dashboard_overview](Dashboard_overview.png)
+![Dashboard_Overview](Dashboard_Overview.png)
 
 ## Skills Demonstrated
 
